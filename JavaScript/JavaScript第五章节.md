@@ -1,0 +1,83 @@
+### 引用类型
+
+- #### Object类型
+    - 创建方式
+        - new 操作符构造函数
+        - 对象字面量法
+    
+- #### Array类型
+    - 创建方式
+        - Array构造函数
+            - 可以传入创建数组的长度，值默认为undefined
+        - 数组字面量
+        - length不只是可读的，可通过改变length给数组添加元素和删除元素，不存在的值为undefined
+        - 检测数组
+            - value instanceof Array
+            - Array.isArray(value)
+        - 栈方法：push()和pop()
+        - 队列方法：shift()和push()  unshift()和pop()
+        - 排序方法：reverse()和sort()
+        - 连接数组：concat()
+        - 删除元素：splice(index,length)
+        - 插入元素：splice(index,length,{...value})
+        - 寻找元素所在数组中的索引值：indexof(value)、lastindexOf(value)
+        - every()：给定一个函数，如果数组中全部都符合条件，则返回true，否则返回false
+        - filter()：给定一个函数，只返回符合条件的数组
+        - foreach()：循环数组
+        - map()：对数组的所有项进行操作，返回一个新数组
+        - some()：只要数组中有一个符合条件就返回true
+        - 归并方法：reduce()和reduceRight(),接收四个参数:prev,cur,index,array,并最终返回一个归并后的值
+        
+- #### Date类型
+    - 日期格式化方法
+        - toDateString()：以特定于实现的格式显示星期几、月、日和年
+        - toTimeString()：以特定于实现的格式显示时，分，秒和时区
+        - toLocaleDateString()：以特定于实现的格式显示星期几、月、日和年
+        - toLocaleDateString()：以特定于实现的格式显示时，分，秒和时区
+        - toUTCString()：以特定于实现的格式显示时、分、秒
+
+- #### Function类型
+    -  没有重载：重名的函数后者会覆盖前者
+    -  函数声明：function name(){},会提升到顶部
+    -  函数表达式var name=function(){}
+    -  函数可作为值：在函数中return 返回值
+    -  函数内部属性：callee()指向拥有arguments对象的函数
+    -  caller()：谁调用此函数，指向谁
+    -  函数属性和方法:
+        - length：表示函数接收命名参数的个数
+        - prototype：原型链，真正方法的保存者
+        - apply()：设定函数体内this对象的值，接收两个参数(this,arguments)
+        - call()：设定函数体内this对象的值，接收两个参数(this,value，value2)
+
+- #### 基本包装类型
+    - Boolean
+    - Number
+        - toFixed(number)：返回几位小数的字符串
+        - toPrecision(number)：返回几位小数的字符串
+    - String
+        - charAt(index)：返回字符所在字符串中的位置
+        - charCodeAt()：输出字符编码
+        - concat()：连接字符串
+        - 字符串截取：slice()和substr()都是两个参数,第一个参数是字符串索引值，第二个参数是结束的索引值位置
+        - 字符串截取：substring(),第一个位置是索引值，第二个是从这开始后面几个字符
+        - 字符串位置：indexOf(),lastIndexOf()
+        - trim()：删除字符串前缀和后缀空格
+        - toLowerCase()和toUpperCase()：全变成大写字母
+        - localeCompare()：比较两个字符串
+        - formCharCode()：与charCodeAt()相反
+
+- #### 单体内置对象
+    - Global对象
+        - URL编码方法
+            - encodeURL()：
+            - encodeURLComponent()：
+        - eval(方法)
+    - windows对象
+        - 声明所有的全局变量都会成为windows的属性
+    - Math对象
+        - min()数值中的最小值
+        - max()数值中的最大值
+        - Math.cell()向上舍入
+        - Math.floor()向下舍入
+        - Math.round()标准四舍五入
+        - Math.random()返回大于等于0小于1的一个随机数  
