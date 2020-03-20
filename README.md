@@ -4,7 +4,7 @@
  * @Author: zero
  * @Date: 2020-03-20 10:18:54
  * @LastEditors: zero
- * @LastEditTime: 2020-03-20 11:09:39
+ * @LastEditTime: 2020-03-20 11:20:57
  -->
 # 博客杂记
 
@@ -68,6 +68,40 @@
 [Jenkins web自动化部署工具安装](https://github.com/Augly/Blog/blob/master/JavaScript/Jenkins%20web%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85.md)
 
 ## JavaScript设计模式
+[JavaScript 设计模式之js中的单例模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8Bjs%E4%B8%AD%E7%9A%84%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript 设计模式之代理模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript 设计模式之单例模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript 设计模式之发布-订阅模式（上）](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8F%91%E5%B8%83-%E8%AE%A2%E9%98%85%E6%A8%A1%E5%BC%8F%EF%BC%88%E4%B8%8A%EF%BC%89.md)
+
+[JavaScript 设计模式之发布-订阅模式（下）](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8F%91%E5%B8%83-%E8%AE%A2%E9%98%85%E6%A8%A1%E5%BC%8F%EF%BC%88%E4%B8%8B%EF%BC%89.md)
+
+[JavaScript 设计模式之命令模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript 设计模式之模板方法模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript 设计模式之策略模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript 设计模式之组合模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
+
+
+[JavaScript 设计模式之迭代器模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript设计模式之中介者模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript设计模式之享元模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript设计模式之状态模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript设计模式之职责链模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript设计模式之装饰者模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+
+[JavaScript设计模式之适配器模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
+
 [如何让进行代码重构？](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/如何让进行代码重构？.md)
 
 [设计原则和编程技巧之单一职责原则](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/设计原则和编程技巧之单一职责原则.md)
@@ -75,5 +109,3 @@
 [设计原则和编程技巧之开放-封闭原则](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/设计原则和编程技巧之开放-封闭原则.md)
 
 [设计原则和编程技巧之最少知识原则](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/设计原则和编程技巧之最少知识原则.md)
-
-[JavaScript 设计模式之策略模式](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/JavaScript 设计模式之策略模式.md)
