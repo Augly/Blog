@@ -4,7 +4,7 @@
  * @Author: zero
  * @Date: 2020-03-20 10:18:54
  * @LastEditors: zero
- * @LastEditTime: 2020-03-20 11:02:07
+ * @LastEditTime: 2020-03-20 11:09:39
  -->
 # 博客杂记
 
@@ -66,3 +66,14 @@
 [JavaScript 第二十七篇 性能篇](https://github.com/Augly/Blog/blob/master/JavaScript/JavaScript%20%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E7%AF%87%20%20%E6%80%A7%E8%83%BD%E7%AF%87.md)
 
 [Jenkins web自动化部署工具安装](https://github.com/Augly/Blog/blob/master/JavaScript/Jenkins%20web%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85.md)
+
+## JavaScript设计模式
+[如何让进行代码重构？](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/如何让进行代码重构？.md)
+
+[设计原则和编程技巧之单一职责原则](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/设计原则和编程技巧之单一职责原则.md)
+
+[设计原则和编程技巧之开放-封闭原则](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/设计原则和编程技巧之开放-封闭原则.md)
+
+[设计原则和编程技巧之最少知识原则](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/设计原则和编程技巧之最少知识原则.md)
+
+[JavaScript 设计模式之策略模式](https://github.com/Augly/Blog/blob/master/JavaScript设计模式/JavaScript 设计模式之策略模式.md)
