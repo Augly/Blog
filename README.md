@@ -4,7 +4,7 @@
  * @Author: zero
  * @Date: 2020-03-20 10:18:54
  * @LastEditors: zero
- * @LastEditTime: 2020-03-20 11:20:57
+ * @LastEditTime: 2020-03-20 11:22:53
  -->
 # 博客杂记
 
@@ -93,8 +93,7 @@
 
 [JavaScript设计模式之享元模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
 
-[JavaScript设计模式之状态模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
-JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
+[JavaScript设计模式之状态模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
 
 [JavaScript设计模式之职责链模式](https://github.com/Augly/Blog/blob/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
 
